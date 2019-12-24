@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 24 Dec 2018 12:29:41 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2019 21:38:04 +0800</lastBuildDate>
     
 	<atom:link href="https://registerforxxx.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://registerforxxx.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 16 Dec 2019 21:38:04 +0800</pubDate>
+      
+      <guid>https://registerforxxx.github.io/posts/my-first-post/</guid>
+      <description>first Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Nulla quis lorem ut libero malesuada feugiat. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Cras ultricies ligula sed magna dictum porta. Curabitur aliquet quam id dui posuere blandit. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Proin eget tortor risus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec rutrum congue leo eget malesuada.</description>
+    </item>
+    
+    <item>
+      <title>孔融</title>
+      <link>https://registerforxxx.github.io/posts/my-ch-post.ch/</link>
+      <pubDate>Mon, 16 Dec 2019 21:38:04 +0800</pubDate>
+      
+      <guid>https://registerforxxx.github.io/posts/my-ch-post.ch/</guid>
+      <description>这是文章的内容： 孔融（153年－208年9月26日），字文举。鲁国（治今山东曲阜）人。东汉末年文学家，“建安七子”之一，家学渊源，是孔子的二</description>
+    </item>
     
     <item>
       <title>The &#34;figure&#34; Shortcode</title>
